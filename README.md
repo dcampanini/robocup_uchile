@@ -4,3 +4,6 @@ In this repository, you can find the paper that describes the work done by the t
 
 The team worked on developing Deep Learning algorithms for Humanoid Robots.
 
+[![Abstract Preview](abstract.png)]
+
+
